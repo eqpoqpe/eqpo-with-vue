@@ -17,6 +17,8 @@
 </template>
 
 <script>
+/* eslint-disable */
+
 import StaticFolder from './component/StaticFolder.vue';
 import Logo from './component/Logo.vue';
 import Console from './component/Console.vue';

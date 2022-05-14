@@ -17,6 +17,8 @@ PUT KEY 'ENTER' TO CONFIRM
 </template>
 
 <script>
+/* eslint-disable */
+
 export default {
   name: 'Console',
   data() {
